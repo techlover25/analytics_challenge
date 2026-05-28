@@ -1,5 +1,3 @@
-# Name : Kaustubh Kulpe
-# Student ID : s3957275
 # I have attempted part HD of the assignment. In the HD part, point 2 and 3 for displaying dataset and algorithms, I was not able to sort them based on average and score column respectively.
 # One particular challenge was implementing the code for obtaining the scores on the algorithm tables. It was difficult to get the index of the top 1,2,3 algorithms for each dataset. After 
 # spending a lot of time, I was able to implement it. But the code didn't feel like object-oriented. 
